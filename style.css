@@ -1,0 +1,207 @@
+body {
+ padding: 0 ;
+ margin: 0;
+ background-color: #C7C7C730;
+}
+
+header nav{
+  padding-top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+ul li{
+  list-style-type: none;
+  display: inline-block;
+  padding: 0vw 0.7vw;
+  font-size: 1.3vw;
+}
+
+ul li a{
+  text-decoration: none;
+  color: #000000;
+}
+
+header .nav p{
+  background-color: white;
+  padding: 1.8vw 8vw;
+  font-size: 5px;
+}
+
+header .nav p a{
+  text-decoration: none;
+  color: #4E5FD1ED;
+}
+
+.text h2{
+  padding-left: 3vw;
+  font-size: 2.2vw;
+  padding-top: 3vw;
+  color: #00000075;
+}
+
+.text h2 span{
+  color: black;
+}
+
+.cnt{
+  padding: 0;
+  margin: 0;
+}
+.cnct{
+  padding: 0vw 3vw;
+}
+
+.cnct a{
+  text-decoration: none;
+  color: #4E5FD1ED;
+}
+
+.cnct1 img{
+  float: left;
+  margin-right: 2vw;
+}
+
+.cnct h5{
+  font-size: 1.5vw;
+}
+.cnct h5 span{
+  font-weight: lighter;
+}
+
+.cnct2 svg{
+  float: left;
+  margin-right: 2vw;
+}
+
+.content{
+  margin: 5vw 0;
+  padding: 0.5vh 3vw;
+  box-sizing: border-box;
+  border: 1px solid transparent;
+  height: 10.3vw;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.image{
+  padding: 0vw .6vw;
+  display: inline-flex;
+}
+
+.image img{
+  width: 10vw;
+}
+
+.image a{
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
+
+.p1 h6{
+  font-size: 2.4vw;
+  padding: 0vw 3vw;
+  color: #00000075;
+}
+
+.p1 span{
+  color: black;
+}
+
+.b{
+  padding: 0 2vw;
+  white-space: nowrap;
+  overflow-x: auto;
+}
+.box {
+  margin: 0 1vw;
+  display: inline-block;
+  width: 30vw;
+  height: 45vw;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+
+.box1{
+  background-image: url(box1.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box2{
+  background-image: url(box2.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box3{
+  background-image: url(box3.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box4{
+  background-image: url(box4.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box5{
+  background-image: url(box5.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box6{
+  background-image: url(box6.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box7{
+  background-image: url(box7.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box8{
+  background-image: url(box8.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box9{
+  background-image: url(box9.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+.box10{
+  background-image: url(box10.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box11{
+  background-image: url(box11.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box12{
+  background-image: url(box12.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.bb{
+  color: white;
+}
+
+.box h6{
+  padding: 0 3vw;
+  font-size: 2vw;
+}
+
